@@ -1,6 +1,6 @@
 {
   "name": "recoil-actions",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "An abstraction for recoiljs that allows multiple state updates to be coordinated as single undo-redo-enabled user-actions.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
